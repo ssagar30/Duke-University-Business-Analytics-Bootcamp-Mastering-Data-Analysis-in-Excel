@@ -9,3 +9,9 @@ if we correctly identify a condition as nothing to be worried about, this the se
 we are classifying something as negative and it is a True Negative. The idea that we're trying to communicate is that our binary classification system involves 
 something that generates ratings. Ratings that can be turned into rankings, to which we can apply a threshold. Then everything above the threshold is going to be 
 declared positive, and everything below the threshold is going to be declared negative.
+
+
+Cancer diagnosis lab -
+
+In this lab, we turned to another example of binary classification and and this one is a typical kind of distribution for a cancer diagnostic. It is a protein blood test
+that identifies a rare type of cance and has an incidence in the population we are studying of 1%. 
