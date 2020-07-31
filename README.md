@@ -11,6 +11,12 @@ something that generates ratings. Ratings that can be turned into rankings, to w
 declared positive, and everything below the threshold is going to be declared negative.
 
 
+
+
+
+
+
+
 Binary performance metric lab -
 
 In this lab, we turned to another example of binary classification and this one is a typical kind of distribution for a cancer diagnostic. It is a protein blood test
